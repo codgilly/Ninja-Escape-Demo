@@ -1,0 +1,638 @@
+fileFormatVersion: 2
+guid: 9650daaf4ae98084ea3f0709eefa9e34
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8785034863198750711
+    second: pixil-frame-0 (10)_0
+  - first:
+      213: -257425287549420936
+    second: pixil-frame-0 (10)_1
+  - first:
+      213: 6014844175378922512
+    second: pixil-frame-0 (10)_2
+  - first:
+      213: -3183840203676816855
+    second: pixil-frame-0 (10)_3
+  - first:
+      213: -8676610011353321518
+    second: pixil-frame-0 (10)_4
+  - first:
+      213: 5476268523333950486
+    second: pixil-frame-0 (10)_5
+  - first:
+      213: 981115497297954532
+    second: pixil-frame-0 (10)_6
+  - first:
+      213: -9081221294778973374
+    second: pixil-frame-0 (10)_7
+  - first:
+      213: -2520986931916841112
+    second: pixil-frame-0 (10)_8
+  - first:
+      213: 14663614221866805
+    second: pixil-frame-0 (10)_9
+  - first:
+      213: -3619992794700281512
+    second: pixil-frame-0 (10)_10
+  - first:
+      213: -6358858728062984221
+    second: pixil-frame-0 (10)_11
+  - first:
+      213: 9084786751621839519
+    second: pixil-frame-0 (10)_12
+  - first:
+      213: -1888951123546233033
+    second: pixil-frame-0 (10)_13
+  - first:
+      213: 1152841865353469423
+    second: pixil-frame-0 (10)_14
+  - first:
+      213: -9105812009278936993
+    second: pixil-frame-0 (10)_15
+  - first:
+      213: -7749290523813897592
+    second: pixil-frame-0 (10)_16
+  - first:
+      213: -6031030780988753014
+    second: pixil-frame-0 (10)_17
+  - first:
+      213: -968889274256397515
+    second: pixil-frame-0 (10)_18
+  - first:
+      213: 4622795593051815993
+    second: pixil-frame-0 (10)_19
+  - first:
+      213: 5549357411802470833
+    second: pixil-frame-0 (10)_20
+  - first:
+      213: -7316228861755824556
+    second: pixil-frame-0 (10)_21
+  - first:
+      213: 8634732788077166897
+    second: pixil-frame-0 (10)_22
+  - first:
+      213: 6913373528241561177
+    second: pixil-frame-0 (10)_23
+  - first:
+      213: -443693288240231892
+    second: pixil-frame-0 (10)_24
+  - first:
+      213: -9058913398727387434
+    second: pixil-frame-0 (10)_25
+  - first:
+      213: 6820161508440798001
+    second: pixil-frame-0 (10)_26
+  - first:
+      213: 8305938996760900172
+    second: pixil-frame-0 (10)_27
+  - first:
+      213: 174527622512274544
+    second: pixil-frame-0 (10)_28
+  - first:
+      213: 3556691182982915094
+    second: pixil-frame-0 (10)_29
+  - first:
+      213: -8503736325915213627
+    second: pixil-frame-0 (10)_30
+  - first:
+      213: 5313867396634909761
+    second: pixil-frame-0 (10)_31
+  - first:
+      213: 1931605176373250078
+    second: pixil-frame-0 (10)_32
+  - first:
+      213: -7732184394238150001
+    second: pixil-frame-0 (10)_33
+  - first:
+      213: -519915807795072250
+    second: pixil-frame-0 (10)_34
+  - first:
+      213: -9169178509242369369
+    second: pixil-frame-0 (10)_35
+  - first:
+      213: 4765769859356108383
+    second: pixil-frame-0 (10)_36
+  - first:
+      213: -8419062113996886495
+    second: pixil-frame-0 (10)_37
+  - first:
+      213: 2470580925966475169
+    second: pixil-frame-0 (10)_38
+  - first:
+      213: 1920163167865556164
+    second: pixil-frame-0 (10)_39
+  - first:
+      213: 2067031856631197118
+    second: pixil-frame-0 (10)_40
+  - first:
+      213: 2969936145999232427
+    second: pixil-frame-0 (10)_41
+  - first:
+      213: -5895100233205033719
+    second: pixil-frame-0 (10)_42
+  - first:
+      213: 3610331644180794325
+    second: pixil-frame-0 (10)_43
+  - first:
+      213: -6448141663833943992
+    second: pixil-frame-0 (10)_44
+  - first:
+      213: -7457906822132307889
+    second: pixil-frame-0 (10)_45
+  - first:
+      213: 7814081037846393072
+    second: pixil-frame-0 (10)_46
+  - first:
+      213: -7182960122422147163
+    second: pixil-frame-0 (10)_47
+  - first:
+      213: 5043762596948687184
+    second: pixil-frame-0 (10)_48
+  - first:
+      213: 6182981234769843685
+    second: pixil-frame-0 (10)_49
+  - first:
+      213: 3147720913385005313
+    second: pixil-frame-0 (10)_50
+  - first:
+      213: 5800298472722430284
+    second: pixil-frame-0 (10)_51
+  - first:
+      213: -8192713247563007398
+    second: pixil-frame-0 (10)_52
+  - first:
+      213: -6190652310597338944
+    second: pixil-frame-0 (10)_53
+  - first:
+      213: 1037794751921505355
+    second: pixil-frame-0 (10)_54
+  - first:
+      213: -738875628508531376
+    second: pixil-frame-0 (10)_55
+  - first:
+      213: -5249363857699496957
+    second: pixil-frame-0 (10)_56
+  - first:
+      213: -3426188188564509399
+    second: pixil-frame-0 (10)_57
+  - first:
+      213: 4445653162699591689
+    second: pixil-frame-0 (10)_58
+  - first:
+      213: 4946009991865801243
+    second: pixil-frame-0 (10)_59
+  - first:
+      213: 5029533096677266200
+    second: pixil-frame-0 (10)_60
+  - first:
+      213: 917005384510576777
+    second: pixil-frame-0 (10)_61
+  - first:
+      213: -3202346180207914061
+    second: pixil-frame-0 (10)_62
+  - first:
+      213: -3621284668104367541
+    second: pixil-frame-0 (10)_63
+  - first:
+      213: 4683627457420129117
+    second: pixil-frame-0 (10)_64
+  - first:
+      213: 5802733311100574615
+    second: pixil-frame-0 (10)_65
+  - first:
+      213: 763235131326796367
+    second: pixil-frame-0 (10)_66
+  - first:
+      213: 7029292678899007081
+    second: pixil-frame-0 (10)_67
+  - first:
+      213: 5643498642405409837
+    second: pixil-frame-0 (10)_68
+  - first:
+      213: 1096115141298336357
+    second: pixil-frame-0 (10)_69
+  - first:
+      213: 8039432820131178270
+    second: pixil-frame-0 (10)_70
+  - first:
+      213: -2648821379419074553
+    second: pixil-frame-0 (10)_71
+  - first:
+      213: -1966584989400483316
+    second: pixil-frame-0 (10)_72
+  - first:
+      213: 3600137478045184848
+    second: pixil-frame-0 (10)_73
+  - first:
+      213: -3372863352859394739
+    second: pixil-frame-0 (10)_74
+  - first:
+      213: 2340469598216185826
+    second: pixil-frame-0 (10)_75
+  - first:
+      213: -8585071545835853694
+    second: pixil-frame-0 (10)_76
+  - first:
+      213: -5608589128993927267
+    second: pixil-frame-0 (10)_77
+  - first:
+      213: 7437825802471872864
+    second: pixil-frame-0 (10)_78
+  - first:
+      213: -6467561395643435485
+    second: pixil-frame-0 (10)_79
+  - first:
+      213: -1654923631665343883
+    second: pixil-frame-0 (10)_80
+  - first:
+      213: 3041074962431099763
+    second: pixil-frame-0 (10)_81
+  - first:
+      213: -6595831588941907163
+    second: pixil-frame-0 (10)_82
+  - first:
+      213: -6032439519574574570
+    second: pixil-frame-0 (10)_83
+  - first:
+      213: -4473372410451974704
+    second: pixil-frame-0 (10)_84
+  - first:
+      213: -5885632107816406861
+    second: pixil-frame-0 (10)_85
+  - first:
+      213: -1148515828677322381
+    second: pixil-frame-0 (10)_86
+  - first:
+      213: 7779520661570597499
+    second: pixil-frame-0 (10)_87
+  - first:
+      213: -7385094093863901657
+    second: pixil-frame-0 (10)_88
+  - first:
+      213: 7454533978930977086
+    second: pixil-frame-0 (10)_89
+  - first:
+      213: -2054090776667336352
+    second: pixil-frame-0 (10)_90
+  - first:
+      213: -2151655442856848915
+    second: pixil-frame-0 (10)_91
+  - first:
+      213: -7228473346704971321
+    second: pixil-frame-0 (10)_92
+  - first:
+      213: -4920544235060854958
+    second: pixil-frame-0 (10)_93
+  - first:
+      213: 6574057670821070734
+    second: pixil-frame-0 (10)_94
+  - first:
+      213: -8822983672939969425
+    second: pixil-frame-0 (10)_95
+  - first:
+      213: -6256451763560584676
+    second: pixil-frame-0 (10)_96
+  - first:
+      213: 8314555431218666017
+    second: pixil-frame-0 (10)_97
+  - first:
+      213: -3097231136313887488
+    second: pixil-frame-0 (10)_98
+  - first:
+      213: 1317319214097520966
+    second: pixil-frame-0 (10)_99
+  - first:
+      213: 5103686837959134614
+    second: pixil-frame-0 (10)_100
+  - first:
+      213: -6510883112752336726
+    second: pixil-frame-0 (10)_101
+  - first:
+      213: 4935967091090705753
+    second: pixil-frame-0 (10)_102
+  - first:
+      213: -5761590611015891624
+    second: pixil-frame-0 (10)_103
+  - first:
+      213: 1308118674396105640
+    second: pixil-frame-0 (10)_104
+  - first:
+      213: -6221789159005968205
+    second: pixil-frame-0 (10)_105
+  - first:
+      213: -5408501061214228535
+    second: pixil-frame-0 (10)_106
+  - first:
+      213: 6388706608367709153
+    second: pixil-frame-0 (10)_107
+  - first:
+      213: 5771796018485978063
+    second: pixil-frame-0 (10)_108
+  - first:
+      213: -7155323383357425976
+    second: pixil-frame-0 (10)_109
+  - first:
+      213: -7831953344709386850
+    second: pixil-frame-0 (10)_110
+  - first:
+      213: 8420253391672190010
+    second: pixil-frame-0 (10)_111
+  - first:
+      213: -299488914785149103
+    second: pixil-frame-0 (10)_112
+  - first:
+      213: -8101515718816540979
+    second: pixil-frame-0 (10)_113
+  - first:
+      213: -3900260022750234612
+    second: pixil-frame-0 (10)_114
+  - first:
+      213: -1735278765510471067
+    second: pixil-frame-0 (10)_115
+  - first:
+      213: 583655483753189582
+    second: pixil-frame-0 (10)_116
+  - first:
+      213: -7540783568127551373
+    second: pixil-frame-0 (10)_117
+  - first:
+      213: -2613295559244285567
+    second: pixil-frame-0 (10)_118
+  - first:
+      213: 7490625079985914664
+    second: pixil-frame-0 (10)_119
+  - first:
+      213: -4526666085176816756
+    second: pixil-frame-0 (10)_120
+  - first:
+      213: 3378259023258645536
+    second: pixil-frame-0 (10)_121
+  - first:
+      213: -2908792030010761258
+    second: pixil-frame-0 (10)_122
+  - first:
+      213: 5267030364644444708
+    second: pixil-frame-0 (10)_123
+  - first:
+      213: 7026245243356740194
+    second: pixil-frame-0 (10)_124
+  - first:
+      213: -8686839037819308056
+    second: pixil-frame-0 (10)_125
+  - first:
+      213: 4458914995369880446
+    second: pixil-frame-0 (10)_126
+  - first:
+      213: 6576546625157820789
+    second: pixil-frame-0 (10)_127
+  - first:
+      213: -1699448347387303294
+    second: pixil-frame-0 (10)_128
+  - first:
+      213: -3395421540783718995
+    second: pixil-frame-0 (10)_129
+  - first:
+      213: -7999735663932691044
+    second: pixil-frame-0 (10)_130
+  - first:
+      213: 2467715183849812926
+    second: pixil-frame-0 (10)_131
+  - first:
+      213: 4588556449353278293
+    second: pixil-frame-0 (10)_132
+  - first:
+      213: -7010420348384653728
+    second: pixil-frame-0 (10)_133
+  - first:
+      213: -5299839992991259631
+    second: pixil-frame-0 (10)_134
+  - first:
+      213: -5943046464602910206
+    second: pixil-frame-0 (10)_135
+  - first:
+      213: 4005287816768689781
+    second: pixil-frame-0 (10)_136
+  - first:
+      213: 8751708085229539331
+    second: pixil-frame-0 (10)_137
+  - first:
+      213: 6413814618146447150
+    second: pixil-frame-0 (10)_138
+  - first:
+      213: -838814489255448762
+    second: pixil-frame-0 (10)_139
+  - first:
+      213: 967811801990788267
+    second: pixil-frame-0 (10)_140
+  - first:
+      213: 8138772454578940640
+    second: pixil-frame-0 (10)_141
+  - first:
+      213: -5017122923682168085
+    second: pixil-frame-0 (10)_142
+  - first:
+      213: -1132160851881666177
+    second: pixil-frame-0 (10)_143
+  - first:
+      213: 2915160320898892005
+    second: pixil-frame-0 (10)_144
+  - first:
+      213: -1828121221277072088
+    second: pixil-frame-0 (10)_145
+  - first:
+      213: -3173430401749462627
+    second: pixil-frame-0 (10)_146
+  - first:
+      213: -3590854638361414575
+    second: pixil-frame-0 (10)_147
+  - first:
+      213: 3931992053138596176
+    second: pixil-frame-0 (10)_148
+  - first:
+      213: -8669768841279049929
+    second: pixil-frame-0 (10)_149
+  - first:
+      213: -6137088490034311913
+    second: pixil-frame-0 (10)_150
+  - first:
+      213: 1065048345582028741
+    second: pixil-frame-0 (10)_151
+  - first:
+      213: -7635783853791955749
+    second: pixil-frame-0 (10)_152
+  - first:
+      213: -8411353195587732059
+    second: pixil-frame-0 (10)_153
+  - first:
+      213: 1465005584071382400
+    second: pixil-frame-0 (10)_154
+  - first:
+      213: 6807216216803610161
+    second: pixil-frame-0 (10)_155
+  - first:
+      213: -8618043441038010079
+    second: pixil-frame-0 (10)_156
+  - first:
+      213: -7081800800251990444
+    second: pixil-frame-0 (10)_157
+  - first:
+      213: -3866763998618016720
+    second: pixil-frame-0 (10)_158
+  - first:
+      213: -322509964637293732
+    second: pixil-frame-0 (10)_159
+  - first:
+      213: 689344307538282577
+    second: pixil-frame-0 (10)_160
+  - first:
+      213: -559745301262837680
+    second: pixil-frame-0 (10)_161
+  - first:
+      213: 4226706487289298512
+    second: pixil-frame-0 (10)_162
+  - first:
+      213: -6850374118150022653
+    second: pixil-frame-0 (10)_163
+  - first:
+      213: -1136452656151136083
+    second: pixil-frame-0 (10)_164
+  - first:
+      213: 5171936126163746489
+    second: pixil-frame-0 (10)_165
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixil-frame-0 (10)_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 497
+        width: 4162
+        height: 1303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f752914afd8da4d9ea60bcd6e0d5e8
+      internalID: -629052549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e94cd1bcda2e7444f8703abbd24e7118
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pixil-frame-0 (10)_0: -629052549
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

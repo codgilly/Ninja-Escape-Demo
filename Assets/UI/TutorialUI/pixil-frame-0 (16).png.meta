@@ -1,0 +1,304 @@
+fileFormatVersion: 2
+guid: 288147307e3c579468eb2e5ea8c432fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1273358426504498224
+    second: pixil-frame-0 (16)_0
+  - first:
+      213: 6979396933438874571
+    second: pixil-frame-0 (16)_1
+  - first:
+      213: 1616757313310996600
+    second: pixil-frame-0 (16)_2
+  - first:
+      213: -2648055932916180656
+    second: pixil-frame-0 (16)_3
+  - first:
+      213: 1776632132014857320
+    second: pixil-frame-0 (16)_4
+  - first:
+      213: 1939489126491012989
+    second: pixil-frame-0 (16)_5
+  - first:
+      213: -5069714790945711917
+    second: pixil-frame-0 (16)_6
+  - first:
+      213: 6038472783567716054
+    second: pixil-frame-0 (16)_7
+  - first:
+      213: -5732366673568915588
+    second: pixil-frame-0 (16)_8
+  - first:
+      213: 768695052888640251
+    second: pixil-frame-0 (16)_9
+  - first:
+      213: -6830897746352534299
+    second: pixil-frame-0 (16)_10
+  - first:
+      213: -6414231100834589035
+    second: pixil-frame-0 (16)_11
+  - first:
+      213: 2933294333094595168
+    second: pixil-frame-0 (16)_12
+  - first:
+      213: -6636312721293552650
+    second: pixil-frame-0 (16)_13
+  - first:
+      213: 5386482790035710563
+    second: pixil-frame-0 (16)_14
+  - first:
+      213: -3916512446509151607
+    second: pixil-frame-0 (16)_15
+  - first:
+      213: 7346773954738633597
+    second: pixil-frame-0 (16)_16
+  - first:
+      213: -1435787425830790917
+    second: pixil-frame-0 (16)_17
+  - first:
+      213: 6433738384774830312
+    second: pixil-frame-0 (16)_18
+  - first:
+      213: 3563528962013390961
+    second: pixil-frame-0 (16)_19
+  - first:
+      213: -6400760081395671817
+    second: pixil-frame-0 (16)_20
+  - first:
+      213: -5287456692981974523
+    second: pixil-frame-0 (16)_21
+  - first:
+      213: -3721543041604046440
+    second: pixil-frame-0 (16)_22
+  - first:
+      213: -6314482834506478387
+    second: pixil-frame-0 (16)_23
+  - first:
+      213: -8969957272008794091
+    second: pixil-frame-0 (16)_24
+  - first:
+      213: -2960900344963897716
+    second: pixil-frame-0 (16)_25
+  - first:
+      213: -8611140430122336741
+    second: pixil-frame-0 (16)_26
+  - first:
+      213: -4245594546526867622
+    second: pixil-frame-0 (16)_27
+  - first:
+      213: -2425735633269500144
+    second: pixil-frame-0 (16)_28
+  - first:
+      213: 9068729147244745519
+    second: pixil-frame-0 (16)_29
+  - first:
+      213: 3006670536909643032
+    second: pixil-frame-0 (16)_30
+  - first:
+      213: -1726513737224264817
+    second: pixil-frame-0 (16)_31
+  - first:
+      213: 8692105922762319262
+    second: pixil-frame-0 (16)_32
+  - first:
+      213: -2849255054724420058
+    second: pixil-frame-0 (16)_33
+  - first:
+      213: 1670544699932140364
+    second: pixil-frame-0 (16)_34
+  - first:
+      213: -7330511929995662306
+    second: pixil-frame-0 (16)_35
+  - first:
+      213: -8784051783992664763
+    second: pixil-frame-0 (16)_36
+  - first:
+      213: 1651934514470413290
+    second: pixil-frame-0 (16)_37
+  - first:
+      213: 5343556728096496343
+    second: pixil-frame-0 (16)_38
+  - first:
+      213: -7951102645115195028
+    second: pixil-frame-0 (16)_39
+  - first:
+      213: 4877379820807085600
+    second: pixil-frame-0 (16)_40
+  - first:
+      213: -3977332793250249861
+    second: pixil-frame-0 (16)_41
+  - first:
+      213: 7933902228603220869
+    second: pixil-frame-0 (16)_42
+  - first:
+      213: -1083686003312789946
+    second: pixil-frame-0 (16)_43
+  - first:
+      213: -6395189149308619142
+    second: pixil-frame-0 (16)_44
+  - first:
+      213: -8186716816613404007
+    second: pixil-frame-0 (16)_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixil-frame-0 (16)_0
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 2000
+        width: 2622
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b0d357858e3af4dad4143e17f99796
+      internalID: 691884499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f22b4257f82bd9b4fad9865e674106e1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pixil-frame-0 (16)_0: 691884499
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

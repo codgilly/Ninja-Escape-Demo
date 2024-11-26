@@ -1,0 +1,777 @@
+fileFormatVersion: 2
+guid: 4ab5061f02d068c4b88badc530f1d664
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7042642889006732337
+    second: running Ninja 1_0
+  - first:
+      213: -7256133896695921838
+    second: running Ninja 1_1
+  - first:
+      213: -8859179171422901517
+    second: running Ninja 1_2
+  - first:
+      213: 3718799893946770348
+    second: running Ninja 1_3
+  - first:
+      213: -3198103261081742426
+    second: running Ninja 1_4
+  - first:
+      213: -6656550287362354426
+    second: running Ninja 1_5
+  - first:
+      213: -8114573123241441030
+    second: running Ninja 1_6
+  - first:
+      213: 8708961684342499652
+    second: running Ninja 1_7
+  - first:
+      213: 2137064284322986395
+    second: running Ninja 1_8
+  - first:
+      213: -7957598704046937088
+    second: running Ninja 1_9
+  - first:
+      213: 8727361149169010691
+    second: running Ninja 1_10
+  - first:
+      213: 3878799433656330602
+    second: running Ninja 1_11
+  - first:
+      213: -6408969649175756591
+    second: running Ninja 1_12
+  - first:
+      213: 9033643470187446790
+    second: running Ninja 1_13
+  - first:
+      213: 7836173763584131606
+    second: running Ninja 1_14
+  - first:
+      213: 3976695144816315085
+    second: running Ninja 1_15
+  - first:
+      213: -3151242227737777812
+    second: running Ninja 1_16
+  - first:
+      213: -8098508985930801533
+    second: running Ninja 1_17
+  - first:
+      213: 631549648890782071
+    second: running Ninja 1_18
+  - first:
+      213: 8205929861135082786
+    second: running Ninja 1_19
+  - first:
+      213: 4430142494229336511
+    second: running Ninja 1_20
+  - first:
+      213: -2207743880203610085
+    second: running Ninja 1_21
+  - first:
+      213: -9103876346423296643
+    second: running Ninja 1_22
+  - first:
+      213: 7099250276747705196
+    second: running Ninja 1_23
+  - first:
+      213: 1322004587712347411
+    second: running Ninja 1_24
+  - first:
+      213: 6193566736623997630
+    second: running Ninja 1_25
+  - first:
+      213: 7937829884031016762
+    second: running Ninja 1_26
+  - first:
+      213: 467184015211087564
+    second: running Ninja 1_27
+  - first:
+      213: -335430721087415942
+    second: running Ninja 1_28
+  - first:
+      213: -6431852682677884387
+    second: running Ninja 1_29
+  - first:
+      213: -7195583238576360441
+    second: running Ninja 1_30
+  - first:
+      213: 7550952579259657974
+    second: running Ninja 1_31
+  - first:
+      213: -6649948032031278052
+    second: running Ninja 1_32
+  - first:
+      213: 3290347473146704666
+    second: running Ninja 1_33
+  - first:
+      213: -8971323368378125332
+    second: running Ninja 1_34
+  - first:
+      213: -4040598781050623269
+    second: running Ninja 1_35
+  - first:
+      213: 3947815482405097908
+    second: running Ninja 1_36
+  - first:
+      213: 5274452665540946449
+    second: running Ninja 1_37
+  - first:
+      213: 7881060464568955591
+    second: running Ninja 1_38
+  - first:
+      213: 714132256495084652
+    second: running Ninja 1_39
+  - first:
+      213: -3271471702430715902
+    second: running Ninja 1_40
+  - first:
+      213: 97446485950567897
+    second: running Ninja 1_41
+  - first:
+      213: -229779441688993427
+    second: running Ninja 1_42
+  - first:
+      213: 8133784710610397836
+    second: running Ninja 1_43
+  - first:
+      213: 7223667368716991563
+    second: running Ninja 1_44
+  - first:
+      213: -6840116074183727443
+    second: running Ninja 1_45
+  - first:
+      213: 1375781215935330876
+    second: running Ninja 1_46
+  - first:
+      213: -9084048633482373059
+    second: running Ninja 1_47
+  - first:
+      213: 3158587899030363579
+    second: running Ninja 1_48
+  - first:
+      213: -7067007872294244256
+    second: running Ninja 1_49
+  - first:
+      213: -4657699928053333852
+    second: running Ninja 1_50
+  - first:
+      213: -5268350665790881903
+    second: running Ninja 1_51
+  - first:
+      213: -5822647515857392157
+    second: running Ninja 1_52
+  - first:
+      213: -5734972177512280377
+    second: running Ninja 1_53
+  - first:
+      213: -3579573119367343740
+    second: running Ninja 1_54
+  - first:
+      213: -9083482014195976483
+    second: running Ninja 1_55
+  - first:
+      213: 7702452821322059772
+    second: running Ninja 1_56
+  - first:
+      213: -8688296674374907638
+    second: running Ninja 1_57
+  - first:
+      213: 4383637669333496755
+    second: running Ninja 1_58
+  - first:
+      213: 2144755970154046536
+    second: running Ninja 1_59
+  - first:
+      213: -6022883042595405496
+    second: running Ninja 1_60
+  - first:
+      213: 1599599759109909043
+    second: running Ninja 1_61
+  - first:
+      213: -5698249551159260784
+    second: running Ninja 1_62
+  - first:
+      213: 1528477560737911189
+    second: running Ninja 1_63
+  - first:
+      213: -7205756421163770555
+    second: running Ninja 1_64
+  - first:
+      213: 4610228998683154309
+    second: running Ninja 1_65
+  - first:
+      213: 832396812304023809
+    second: running Ninja 1_66
+  - first:
+      213: -2836460357220221144
+    second: running Ninja 1_67
+  - first:
+      213: -7001557923485084976
+    second: running Ninja 1_68
+  - first:
+      213: -6070979130340171805
+    second: running Ninja 1_69
+  - first:
+      213: 8502174784241336190
+    second: running Ninja 1_70
+  - first:
+      213: 9204056595719737187
+    second: running Ninja 1_71
+  - first:
+      213: 750622892099692436
+    second: running Ninja 1_72
+  - first:
+      213: 6235090338729565360
+    second: running Ninja 1_73
+  - first:
+      213: 5932703272489008217
+    second: running Ninja 1_74
+  - first:
+      213: -6595958043747752523
+    second: running Ninja 1_75
+  - first:
+      213: 3574387427404739872
+    second: running Ninja 1_76
+  - first:
+      213: 5803537120966743607
+    second: running Ninja 1_77
+  - first:
+      213: -8201504786744999802
+    second: running Ninja 1_78
+  - first:
+      213: -5091126267992772739
+    second: running Ninja 1_79
+  - first:
+      213: -2938993303166181388
+    second: running Ninja 1_80
+  - first:
+      213: -1797796668916874906
+    second: running Ninja 1_81
+  - first:
+      213: -4765642928178040420
+    second: running Ninja 1_82
+  - first:
+      213: 2692220335866435654
+    second: running Ninja 1_83
+  - first:
+      213: -2756432235755068133
+    second: running Ninja 1_84
+  - first:
+      213: -6809546102206131930
+    second: running Ninja 1_85
+  - first:
+      213: -2263820089920043348
+    second: running Ninja 1_86
+  - first:
+      213: 6074440723516448239
+    second: running Ninja 1_87
+  - first:
+      213: 5999553380032344126
+    second: running Ninja 1_88
+  - first:
+      213: -906208810322537261
+    second: running Ninja 1_89
+  - first:
+      213: -4800826452134355773
+    second: running Ninja 1_90
+  - first:
+      213: -1858688077246905491
+    second: running Ninja 1_91
+  - first:
+      213: -3107125277027575083
+    second: running Ninja 1_92
+  - first:
+      213: -5620052779175609856
+    second: running Ninja 1_93
+  - first:
+      213: 3292477670011912928
+    second: running Ninja 1_94
+  - first:
+      213: -6456456535162906157
+    second: running Ninja 1_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: running Ninja 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 347
+        width: 1343
+        height: 1070
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7da40153ed3fb49a79632ce7360afb
+      internalID: -187932260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running Ninja 1_1
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 347
+        width: 1343
+        height: 1070
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0386f44e6842b454fb5b542660415c40
+      internalID: -485427893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running Ninja 1_2
+      rect:
+        serializedVersion: 2
+        x: 3063
+        y: 347
+        width: 1343
+        height: 1070
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38dcd9354d904f4f9786e43f671246a
+      internalID: 1302104407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running Ninja 1_3
+      rect:
+        serializedVersion: 2
+        x: 4563
+        y: 347
+        width: 1343
+        height: 1070
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c5d6b7c8464b842a57a478147bbf01
+      internalID: -30136404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running Ninja 1_4
+      rect:
+        serializedVersion: 2
+        x: 6132
+        y: 347
+        width: 1343
+        height: 1070
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5897d03e0ac9d6d4bb8d4f9d3feb6f63
+      internalID: 1213644461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running Ninja 1_5
+      rect:
+        serializedVersion: 2
+        x: 7578
+        y: 347
+        width: 1343
+        height: 1070
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c01a90d1014f240a932d8bf71532ef
+      internalID: 114799771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running Ninja 1_6
+      rect:
+        serializedVersion: 2
+        x: 9125
+        y: 347
+        width: 1343
+        height: 1070
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1da9665891a42429706d47ed3a5ef0
+      internalID: 1923389591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running Ninja 1_7
+      rect:
+        serializedVersion: 2
+        x: 10621
+        y: 347
+        width: 1343
+        height: 1070
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb0a854109800e449b50837f175233e
+      internalID: 1524052152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running Ninja 1_8
+      rect:
+        serializedVersion: 2
+        x: 12217
+        y: 347
+        width: 1343
+        height: 1070
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a298e699c048cb48825eadff6ac155f
+      internalID: 1685477846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running Ninja 1_9
+      rect:
+        serializedVersion: 2
+        x: 13708
+        y: 347
+        width: 1343
+        height: 1070
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b895f95c0e1c842a524e3db51111db
+      internalID: 609755572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running Ninja 1_10
+      rect:
+        serializedVersion: 2
+        x: 15191
+        y: 347
+        width: 1343
+        height: 1070
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff24a8d5ace64f54d86874919c3cfe09
+      internalID: 361665409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running Ninja 1_11
+      rect:
+        serializedVersion: 2
+        x: 16691
+        y: 347
+        width: 1343
+        height: 1070
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff892923d49b55d49920b41e1019201d
+      internalID: -1704433358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running Ninja 1_12
+      rect:
+        serializedVersion: 2
+        x: 18259
+        y: 347
+        width: 1343
+        height: 1070
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d1c4ff37cdba34995875ce0a699d9c
+      internalID: -25837867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running Ninja 1_13
+      rect:
+        serializedVersion: 2
+        x: 19804
+        y: 347
+        width: 1343
+        height: 1070
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72758b659108f1446975f9b45cbac577
+      internalID: 1518502841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running Ninja 1_14
+      rect:
+        serializedVersion: 2
+        x: 21397
+        y: 347
+        width: 1343
+        height: 1070
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc0be8fb95628547aa35bb906f78809
+      internalID: -1946436683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f43c816f31a26e64690f7a1be92a86ea
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      running Ninja 1_0: -187932260
+      running Ninja 1_1: -485427893
+      running Ninja 1_10: 361665409
+      running Ninja 1_11: -1704433358
+      running Ninja 1_12: -25837867
+      running Ninja 1_13: 1518502841
+      running Ninja 1_14: -1946436683
+      running Ninja 1_2: 1302104407
+      running Ninja 1_25: 670851091
+      running Ninja 1_3: -30136404
+      running Ninja 1_4: 1213644461
+      running Ninja 1_5: 114799771
+      running Ninja 1_6: 1923389591
+      running Ninja 1_7: 1524052152
+      running Ninja 1_8: 1685477846
+      running Ninja 1_9: 609755572
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
