@@ -83,6 +83,7 @@ MonoBehaviour:
   dow: 0
   shot: 0
   direction: {x: 0, y: 0}
+  anim: {fileID: 0}
 --- !u!1 &7670197154959771880
 GameObject:
   m_ObjectHideFlags: 0

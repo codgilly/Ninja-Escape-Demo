@@ -21,7 +21,7 @@ public class DeathSCEnemy2 : MonoBehaviour
             enemy.GetComponent<EnemyTest>().dead = true;
             enemyAnim.SetBool("stabbed", true);
             enemyAnim.Play("deathGuard");
-            //playeranim.Play("stabbing");
+            playeranim.Play("stabbing");
             Invoke("Death", 0.5f);
         }
     }

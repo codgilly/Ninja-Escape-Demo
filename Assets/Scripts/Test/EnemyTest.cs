@@ -45,7 +45,11 @@ public class EnemyTest : MonoBehaviour
         {
             Debug.Log(hit.collider.tag);
 
-            if(hit.transform.CompareTag("Player") && !hit.transform.CompareTag("Walls"))
+            if(hit.transform.CompareTag("Walls"))
+            {
+                return;
+            }
+            if (hit.transform.CompareTag("Player"))
             {
                 //voice line
                 Invoke("Caught", 1.5f);
