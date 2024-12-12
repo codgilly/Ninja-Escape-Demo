@@ -2,6 +2,10 @@ using UnityEngine;
 
 public class TimeStop : MonoBehaviour
 {
+    private void Start()
+    {
+        Time.timeScale = 1f;
+    }
     public void TimeSlow()
     {
         Time.timeScale = 0.1f;
